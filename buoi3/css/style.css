@@ -1,0 +1,40 @@
+html,body{
+   height: 100%;
+}
+.cha{
+    background-size: 100% 100%;
+    width: 70%;
+    height: 50%;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 5px double black;
+    margin: auto;
+    border-radius: 20px;
+    /* background-image: url("https://www.sony.com.vn/image/bc6d25fa6371c2899ce704a2bed7614c?fmt=png-alpha&wid=720"); */
+}
+.con-1{
+    width: 120px;
+    height: 60px;
+    border: 2px solid black;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+.cha-1 .con-1{
+    margin-bottom: 50px;
+}
+.cha-3 .con-1{
+    margin-bottom: 50px;
+}
+.cha-2 .con-1{
+    margin-bottom: 20px;
+    height: 250px;
+   
+}
+h1{
+    font-family: 'Redressed', cursive;
+}
+p{
+    font-family: 'Roboto Slab', serif;
+
